@@ -28,6 +28,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,5 +46,19 @@
       <updated>1584511682729</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="123" key="FileChooserDialogImpl" timestamp="1584805986338">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="420" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584805986338" />
+    <state x="492" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584805997242">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1584805997242" />
+    <state x="22" y="0" key="new project wizard" timestamp="1584806962159">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="22" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1584806962159" />
   </component>
 </project>
